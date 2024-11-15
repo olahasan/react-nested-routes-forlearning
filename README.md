@@ -1,6 +1,6 @@
 # react-nested-routes-forlearning
 
-it is not a project. it is just a react[hooks] simple project that has many pages and we route between them using routes.for_learning and trying
+it is not a real project. it is just a react[hooks] simple project that has many pages and we route between them using routes.for_learning and trying
 
 ## Table of contents
 
@@ -14,7 +14,7 @@ it is not a project. it is just a react[hooks] simple project that has many page
 
 
 ## overview
-it is not a project. it is just a react[hooks] simple project that has many pages and we route between them using routes.for_learning and trying
+it is not a real project. it is just a react[hooks] simple project that has many pages and we route between them using routes.for_learning and trying
 
 
 ## Features
